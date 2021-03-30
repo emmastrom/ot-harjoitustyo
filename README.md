@@ -10,4 +10,7 @@
 # Viikko2
 
 
-[vaatimusmäärittely](https://github.com/emmastrom/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
+[vaatimusmäärittely.md](https://github.com/emmastrom/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
+
+
+[tuntikirjanpito.md](https://github.com/emmastrom/ot-harjoitustyo/blob/main/dokumentaatio/tuntikirjanpito.md)
