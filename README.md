@@ -8,3 +8,6 @@
 
 
 # Viikko2
+
+
+[vaatimusmäärittely](https://github.com/emmastrom/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
