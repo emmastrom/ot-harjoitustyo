@@ -15,12 +15,12 @@ On kaksi pelaajaa. Koska sovellus on peli ei ole eri käyttäjärooleja.
 # Perusversion tarjoama toiminnallisuus
 
 
-    -    3 x 3 kokoinen alue
-    -    Pelaaja1:n merkki on  X ja Pelaaja2:n merkki on O
-    -    X laitetaan parittomilla vuoroilla ja O parillisilla vuoroilla
-    -    Pelaaja voittaa jos oma merkki on kolme kertaa peräkkäin
-         -    Vinosti tai vaaka- tai pystysuorassa
-         -    Jos kumpikaan ei voita loppuu tasapeliin
+   -    3 x 3 kokoinen alue
+   -    Pelaaja1:n merkki on  X ja Pelaaja2:n merkki on O
+   -    X laitetaan parittomilla vuoroilla ja O parillisilla vuoroilla
+   -    Pelaaja voittaa jos oma merkki on kolme kertaa peräkkäin
+        -    Vinosti tai vaaka- tai pystysuorassa
+        -    Jos kumpikaan ei voita loppuu tasapeliin
 
 
 # Jatkokehitysideoita
