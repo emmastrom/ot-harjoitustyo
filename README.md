@@ -7,4 +7,4 @@
 [komentorivi.txt](https://github.com/emmastrom/ot-harjoitustyo/blob/main/laskarit/komentorivi.txt)
 
 
-#Viikko2
+# Viikko2
