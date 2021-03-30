@@ -8,7 +8,7 @@ Sovellus on ristinolla -peli. Kaksi pelaajaa voivat pelata ristinollaa.
 # Käyttäjät
 
 
-On kaksi pelaajaa. Koska sovellus on peli ei ole eri käyttäjärooleja.
+On kaksi pelaajaa. Koska sovellus on peli, ei ole eri käyttäjärooleja.
 
 
 
