@@ -1,18 +1,18 @@
-## Vaatimusmäärittely
-# Sovelluksen tarkoitus
+# Vaatimusmäärittely
+## Sovelluksen tarkoitus
 
 
 Sovellus on ristinolla -peli. Kaksi pelaajaa voivat pelata ristinollaa.
 
 
-# Käyttäjät
+## Käyttäjät
 
 
 On kaksi pelaajaa. Koska sovellus on peli, ei ole eri käyttäjärooleja.
 
 
 
-# Perusversion tarjoama toiminnallisuus
+## Perusversion tarjoama toiminnallisuus
 
 
    -    3 x 3 kokoinen alue
@@ -23,7 +23,7 @@ On kaksi pelaajaa. Koska sovellus on peli, ei ole eri käyttäjärooleja.
         -    Jos kumpikaan ei voita loppuu tasapeliin
 
 
-# Jatkokehitysideoita
+## Jatkokehitysideoita
 
 
 Perusversion jälkeen järjestelmää täydennetään aja salliessa esim. seuraavilla toiminnallisuuksilla:
