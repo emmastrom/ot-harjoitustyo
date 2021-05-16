@@ -5,3 +5,9 @@
 /laskarit/viikko2/unicafe/src/tests/.coverage
 /laskarit/viikko2/unicafe/src/tests/.coveragerc
 /laskarit/viikko2/unicafe/src/.coverage
+.vscode
+.DS_Store
+.pytest_cache
+__pycache__
+*.py[cod]
+*$py.class
