@@ -6,4 +6,5 @@ class Renderer:
         self._game = game
 
     def render(self):
-        pass
+        self._game.all_sprites.draw(self._display)
+        pygame.display.update()
